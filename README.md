@@ -1,4 +1,4 @@
-# 🇳🇬 Nigerian Food Price Forecasting — Time Series Analysis Capstone
+# Nigerian Food Price Forecasting — Time Series Analysis Capstone
 
 > **TS Academy Track 3 | Personal Repository**
 
